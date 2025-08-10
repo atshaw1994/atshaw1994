@@ -2,4 +2,4 @@ Hi! I'm Aaron Shaw. I began coding at 8 years old when I stumbled across my dad'
 
 Outside of programming and Software Engineering, I like to play guitar and write music. Green Day and Blink 182 are heavily responsible for that hobby. I also enjoy playing video games. My latest interests are Phasmophobia and Old School Runescape. But there's always the trusty old Minecraft. 
 
-I'm here to build my portfolio and contribute to projects I use and enjoy!
+I'm here actively seeking my first professional role in software engineering and am excited to contribute my skills and passion to a great team.
